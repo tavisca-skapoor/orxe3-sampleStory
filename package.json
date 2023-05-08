@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.8.7",
-    "@storybook/web-components": "^5.3.14",
+    "@storybook/web-components": "^7.0.9",
     "babel-loader": "^8.0.6"
   }
 }
